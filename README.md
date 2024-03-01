@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PrinceKumar</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw1pGQX80exG-0Ei4atGiysD&ust=1709362745416000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNjf58u-0oQDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="Screenshot 2023-06-07 140503.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekumar74&label=Profile%20views&color=0e75b6&style=flat" alt="princekumar74" /> </p>
 
