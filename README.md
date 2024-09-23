@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm PrinceKumar</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
+<img align="right" alt="coding" width="400" src="https://main--iridescent-kataifi-df3f89.netlify.app/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekumar74&label=Profile%20views&color=0e75b6&style=flat" alt="princekumar74" /> </p>
 
