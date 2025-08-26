@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekumar74&label=Profile%20views&color=0e75b6&style=flat" alt="princekumar74" /> </p>
 
-- 🔭 I’m currently working on [Cafe Online](https://main--iridescent-kataifi-df3f89.netlify.app/)
+- 🔭 I’m currently working on [3D model for hair wig]
 
 - 🌱 I’m currently learning **Node.js**
 
